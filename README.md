@@ -1,10 +1,11 @@
 <!---
 <h4 align="center"><samp> Hi there 👋🏾  welcome to my Github! I am very interested in design & advanced website development Tech （ I'm exploring React Tech 🐍 ☁️） </samp></h4>
---->
-
 <p align="center">
   <img width="250" src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif">
 </p>
+--->
+
+
 
 <!---
 A freelance Web Designer & Developer from Kerala, India. I design and develop websites, landing pages and applications for startups and enterprises.
