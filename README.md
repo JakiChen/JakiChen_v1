@@ -15,7 +15,7 @@ A freelance Web Designer & Developer from Kerala, India. I design and develop we
 </p>
 --->
 
-![](https://visitor-badge.glitch.me/badge?page_id=ari-hacks.ari-hacks)
+![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
 
 <!--
 动态图形
