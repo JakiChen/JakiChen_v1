@@ -15,7 +15,7 @@ A freelance Web Designer & Developer from Kerala, India. I design and develop we
 </p>
 --->
 
-![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
+![](https://komarev.com/ghpvc/?username=JakiChen&style=)
 
 <!--
 动态图形
