@@ -14,8 +14,9 @@ A freelance Web Designer & Developer from Kerala, India. I design and develop we
 <a href= "https://twitter.com/ari_hacks"><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/></a>
 </p>
 --->
-
-![](https://komarev.com/ghpvc/?username=JakiChen&style=)
+<!---
+![](https://komarev.com/ghpvc/?username=JakiChen&style=flat-square)
+--->
 
 <!--
 动态图形
